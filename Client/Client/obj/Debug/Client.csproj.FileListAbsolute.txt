@@ -1,0 +1,28 @@
+c:\users\suuser\documents\visual studio 2012\Projects\Client\Client\bin\Debug\Client.exe.config
+c:\Users\suuser\Documents\Visual Studio 2012\Projects\Client\Client\bin\Debug\Client.exe
+c:\Users\suuser\Documents\Visual Studio 2012\Projects\Client\Client\bin\Debug\Client.pdb
+c:\Users\suuser\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.Form1.resources
+c:\Users\suuser\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\suuser\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\suuser\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.exe
+c:\Users\suuser\Documents\Visual Studio 2012\Projects\Client\Client\obj\Debug\Client.pdb
+C:\Users\MONSTER\Desktop\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\MONSTER\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\MONSTER\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\MONSTER\Desktop\Client\Client\bin\Client.exe.config
+C:\Users\MONSTER\Desktop\Client\Client\bin\Client.exe
+C:\Users\MONSTER\Desktop\Client\Client\bin\Client.pdb
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\bin\Client.exe.config
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\bin\Client.exe
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\bin\Client.pdb
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\obj\Debug\Client.exe
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Client\Client\obj\Debug\Client.pdb

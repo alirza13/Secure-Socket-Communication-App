@@ -1,0 +1,39 @@
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.Form1.resources
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\suuser\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\MONSTER\Desktop\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\MONSTER\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\MONSTER\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\MONSTER\Desktop\Server\Server\bin\Server.exe.config
+C:\Users\MONSTER\Desktop\Server\Server\bin\Server.exe
+C:\Users\MONSTER\Desktop\Server\Server\bin\Server.pdb
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\bin\Server.exe.config
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\bin\Server.exe
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\bin\Server.pdb
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\obj\Debug\Server.exe
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\Server\Server\obj\Debug\Server.pdb
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\bin\Server.exe.config
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\bin\Server.exe
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\bin\Server.pdb
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\obj\Debug\Server.exe
+C:\Users\MONSTER\OneDrive\Senior 2\CS 432\Project Step1\guliyev_Guliyev_Alirza\Server\Server\obj\Debug\Server.pdb
